@@ -1,6 +1,7 @@
 
 #include "lib.h"
 
+
 bool trovaprimo (int dato, int passo)
 {
     bool flag=false;
